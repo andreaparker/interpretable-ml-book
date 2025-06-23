@@ -37,7 +37,7 @@ pickleshare==0.7.5
 Pillow==8.0.1
 pkg-resources==0.0.0
 prompt-toolkit==3.0.8
-protobuf==3.13.0
+protobuf==4.25.8
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -60,7 +60,7 @@ termcolor==1.1.0
 tf-keras-vis==0.5.3
 tifffile==2020.9.3
 traitlets==4.3.3
-urllib3==1.26.2
+urllib3==2.5.0
 wcwidth==0.2.5
 Werkzeug==1.0.1
 wrapt==1.12.1
